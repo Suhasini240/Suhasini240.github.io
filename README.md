@@ -13,14 +13,6 @@ I’m passionate about turning complex data into **clear, actionable insights** 
 
 ---
 
-##  Visual Portfolio (Canva)  
-Here’s a visual snapshot of my portfolio design:  
-
-[![View Portfolio](assets/portfolio-preview.png)](YOUR_CANVA_LINK_HERE)  
-
- *Click the image above or [view the full portfolio on Canva](YOUR_CANVA_LINK_HERE).*  
-
----
 
 ##  Featured Projects  
 
@@ -32,15 +24,19 @@ Built a **Streamlit app** integrating the **New York Times API** and **News API 
 [GitHub Repo](https://github.com/Suhasini240/YourRepoHere)  
 Developed a **logistic regression–based churn model** in Python and deployed it via **Streamlit** to predict subscription retention for WHOOP fitness wearables. Applied clustering (k-means) and random forests to identify high-risk user segments and recommend targeted strategies that improved conversion and retention outcomes.  
 
-### Student Content Recommendation System (SKD Group)  
-[GitHub Repo](https://github.com/Suhasini240/YourRepoHere)  
-Built a **user–item matrix factorization recommender** to personalize study materials, achieving a **17% higher CTR** over the baseline model. Implemented in **Python (scikit-learn, Pandas)** and version-controlled with **Git/GitHub (feature branches + PRs)**.  
+### SQL 1
 
-### Demand Forecasting & Dashboards (Q4 Designs)  
-Created a **Random Forest model** in Python for retail demand forecasting, achieving **1% MAPE**. Designed **PostgreSQL + Power BI dashboards** and client-facing reports, improving visibility into retail metrics and cutting report turnaround by **30%**.  
 
-### Healthcare Analytics & ETL (Temple University Health System)   
-Designed **Power BI dashboards powered by T-SQL (SQL Server)** to analyze **700k+ cancer records** and monitor specialty case volumes. Built an **ETL pipeline in SQL** to structure patient feedback data into internal databases, saving **20+ hours of manual reporting per week**.  
+### SQl 2 
+
+### Frameworks II final project  
+Designed **Power BI dashboards powered by T-SQL (SQL Server)** to analyze **700k+ cancer records** and monitor specialty case volumes. Built an **ETL pipeline in SQL** to structure patient feedback data into internal databases, saving **20+ hours of manual reporting per week**. 
+
+### Frameworks II final project  
+A/B Testing 
+
+### Sage maker
+TBD
 
 ---
 
@@ -51,13 +47,13 @@ Designed **Power BI dashboards powered by T-SQL (SQL Server)** to analyze **700k
 - **Data Engineering:** ETL pipelines, Data Cleaning & Transformation, PySpark, **Familiarity with Airflow & dbt**, API integration (NYT, News API, OAuth)  
 - **Databases & Cloud:** SQL Server, PostgreSQL, MySQL, MongoDB, **Exposure to BigQuery & Azure**  
 - **Visualization & Tools:** Power BI, Tableau, Streamlit, Excel, Google Suite, Git/GitHub, VS Code, Jupyter  
-- **Business Skills:** Data-driven strategy, A/B Testing & Experimentation, Client-facing reporting, Cross-functional collaboration, Mentorship  
+- **Business Skills:** Data-driven strategy, A/B Testing & Experimentation, Client-facing reporting, Cross-functional collaboration
 
 ---
 
 ##  Career Interests  
-Data Analytics • Product Analytics • Data Science • Data Engineering  
-Passionate about applying **data and AI to drive innovation in fashion, wellness, and healthcare industries.**  
+• Data Science • Data Analytics • Marketing Analytics 
+Passionate about applying **Data and AI to drive innovation in fashion, wellness, and healthcare industries.**  
 
 ---
 
