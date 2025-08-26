@@ -1,28 +1,28 @@
 # Suhasini Singh  
 
-📧 **Email:** [ss7277@columbia.edu](mailto:ss7277@columbia.edu)  
-🔗 **LinkedIn:** [linkedin.com/in/suhasinisingh24](https://linkedin.com/in/suhasinisingh24)  
-🧑‍💻 **GitHub:** [github.com/Suhasini240](https://github.com/Suhasini240)  
+ **Email:** [ss7277@columbia.edu](mailto:ss7277@columbia.edu)  
+ **LinkedIn:** [linkedin.com/in/suhasinisingh24](https://linkedin.com/in/suhasinisingh24)  
+ **GitHub:** [github.com/Suhasini240](https://github.com/Suhasini240)  
 
 ---
 
-## 👩‍💻 About Me  
+##  About Me  
 I’m a **Master’s student in Applied Analytics at Columbia University (Dec 2025)** with **~2+ years of experience** across data analytics, data science, and strategy. My background combines **retail and fashion industry expertise** (M.S. in Business of Fashion, Rutgers) with strong technical skills in **Python, R, SQL, Power BI, Tableau, and NLP**.  
 
 I’m passionate about turning complex data into **clear, actionable insights** that drive smarter decisions in **retail, healthcare, and product analytics**.  
 
 ---
 
-## 🎨 Visual Portfolio (Canva)  
+##  Visual Portfolio (Canva)  
 Here’s a visual snapshot of my portfolio design:  
 
 [![View Portfolio](assets/portfolio-preview.png)](YOUR_CANVA_LINK_HERE)  
 
-👉 *Click the image above or [view the full portfolio on Canva](YOUR_CANVA_LINK_HERE).*  
+ *Click the image above or [view the full portfolio on Canva](YOUR_CANVA_LINK_HERE).*  
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 
 ### [Justice Lens – API-Driven Media Bias Analyzer](https://justice-lens.streamlit.app/)  
 [GitHub Repo](https://github.com/Suhasini240/Justice-Lens)  
@@ -44,7 +44,7 @@ Designed **Power BI dashboards powered by T-SQL (SQL Server)** to analyze **700k
 
 ---
 
-## 🛠 Skills  
+##  Skills  
 
 - **Languages:** Python, R, SQL  
 - **Data & ML:** Pandas, NumPy, scikit-learn, Logistic Regression, Decision Trees, Clustering, NLP (VADER, embeddings, text analysis), Predictive Modeling  
@@ -55,7 +55,7 @@ Designed **Power BI dashboards powered by T-SQL (SQL Server)** to analyze **700k
 
 ---
 
-## 🎯 Career Interests  
+##  Career Interests  
 Data Analytics • Product Analytics • Data Science • Data Engineering  
 Passionate about applying **data and AI to drive innovation in fashion, wellness, and healthcare industries.**  
 
