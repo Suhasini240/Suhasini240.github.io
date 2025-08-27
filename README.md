@@ -50,7 +50,10 @@ TBD
 - **Business Skills:** Data-driven strategy, A/B Testing & Experimentation, Client-facing reporting, Cross-functional collaboration
 
 ---
+## Achievements And Recognitions
+NITI Aayog Research Scholar - Government of India (Jul–Aug 2021) (add link )
 
+---
 ##  Career Interests  
 • Data Science • Data Analytics • Marketing Analytics 
 Passionate about applying **Data and AI to drive innovation in fashion, wellness, and healthcare industries.**  
