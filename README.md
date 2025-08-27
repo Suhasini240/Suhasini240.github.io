@@ -16,6 +16,7 @@ I’m a Data Analyst with ~2+ years of experience across data analytics, data sc
 
 ### [Justice Lens – API-Driven Media Bias Analyzer](https://justice-lens.streamlit.app/)  
 [GitHub Repo](https://github.com/Suhasini240/Justice-Lens)  
+https://justice-lens.streamlit.app/
 Built a **Streamlit app** integrating the **New York Times API** and **News API (Fox News)** to detect bias in media coverage of shared topics. Designed Python **ETL workflows**, applied **NLP (VADER sentiment, confidence intervals, Cohen's d)**, and built interactive dashboards to visualize polarity, volatility, and headline–abstract gaps (clickbait lens).  
 
 ### Enhancing Predictive Analytics for Subscription Retention  
