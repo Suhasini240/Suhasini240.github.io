@@ -51,7 +51,9 @@ TBD
 
 ---
 ## Achievements And Recognitions
-NITI Aayog Research Scholar - Government of India (Jul–Aug 2021) (add link )
+NITI Aayog Research Scholar - Government of India (Jul–Aug 2021
+(https://github.com/Suhasini240/Suhasini240.github.io/blob/main/assets/NITI_Aayog_Certificate.pdf)
+
 
 ---
 ##  Career Interests  
