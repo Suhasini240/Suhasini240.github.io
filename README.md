@@ -50,10 +50,20 @@ TBD
 - **Business Skills:** Data-driven strategy, A/B Testing & Experimentation, Client-facing reporting, Cross-functional collaboration
 
 ---
-## Achievements And Recognitions
-NITI Aayog Research Scholar - Government of India (Jul–Aug 2021
+## Achievements & Recognitions
+NITI Aayog Research Scholar - Government of India (Jul–Aug 2021)
 (https://github.com/Suhasini240/Suhasini240.github.io/blob/main/assets/NITI_Aayog_Certificate.pdf)
 
+Certified ScrumMaster - Scrum Alliance (Feb 2025)
+(https://github.com/Suhasini240/Suhasini240.github.io/blob/main/assets/Suhasini%20Singh-ScrumAlliance_CSM_Certificate%20(1).pdf)
+
+-----
+## Academic Work Samples 
+
+Applied Statistics - 
+1. https://github.com/Suhasini240/Suhasini240.github.io/blob/main/assets/Work%20Sample%201.pdf
+2. https://github.com/Suhasini240/Suhasini240.github.io/blob/main/assets/Work%20Sample%202.pdf
+3. https://github.com/Suhasini240/Suhasini240.github.io/blob/main/assets/Work%20Sample%203.pdf
 
 ---
 ##  Career Interests  
