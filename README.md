@@ -19,19 +19,6 @@ I’m a Data Analyst with ~2+ years of experience across data analytics, data sc
 https://justice-lens.streamlit.app/
 Built a **Streamlit app** integrating the **New York Times API** and **News API (Fox News)** to detect bias in media coverage of shared topics. Designed Python **ETL workflows**, applied **NLP (VADER sentiment, confidence intervals, Cohen's d)**, and built interactive dashboards to visualize polarity, volatility, and headline–abstract gaps (clickbait lens).  
 
-### Enhancing Predictive Analytics for Subscription Retention  
-[GitHub Repo](https://github.com/Suhasini240/YourRepoHere)  
-Developed a **logistic regression–based churn model** in Python and deployed it via **Streamlit** to predict subscription retention for WHOOP fitness wearables. Applied clustering (k-means) and random forests to identify high-risk user segments and recommend targeted strategies that improved conversion and retention outcomes.  
-
-### SQL 1
-### SQl 2 
-### Frameworks II final project  
-Designed **Power BI dashboards powered by T-SQL (SQL Server)** to analyze **700k+ cancer records** and monitor specialty case volumes. Built an **ETL pipeline in SQL** to structure patient feedback data into internal databases, saving **20+ hours of manual reporting per week**. 
-### Frameworks II final project  
-### A/B Testing 
-### Sage maker
-TBD
-
 ---
 
 ##  Skills  
