@@ -7,9 +7,7 @@
 ---
 
 ##  About Me  
-I’m a **Master’s student in Applied Analytics at Columbia University (Dec 2025)** with **~2+ years of experience** across data analytics, data science, and strategy. My background combines **retail and fashion industry expertise** (M.S. in Business of Fashion, Rutgers) with strong technical skills in **Python, R, SQL, Power BI, Tableau, and NLP**.  
-
-I’m passionate about turning complex data into **clear, actionable insights** that drive smarter decisions in **retail, healthcare, and product analytics**.  
+I’m a Data Analyst with ~2+ years of experience across data analytics, data science, and strategy. I specialize in transforming complex datasets into clear, actionable insights that drive smarter decisions in retail, healthcare, and product analytics. What drives me is delivering value to customers by combining technical expertise in SQL, Python, R, and BI tools with a strong business orientation. I’m passionate about building data solutions that not only uncover insights but also create meaningful impact in the way organizations innovate and grow.
 
 ---
 
