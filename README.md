@@ -22,9 +22,6 @@ Built a **Streamlit app** integrating the **New York Times API** and **News API 
 [GitHub Repo](https://github.com/Suhasini240/data_analysis_visualization)  
 Analyzed **NYC MTA ridership data** to measure post-COVID recovery trends across modes (Subway, Bus, LIRR, Metro-North, Bridges & Tunnels, Staten Island Railway).  
 - Built **SQL queries** for key KPIs:  
-  **Overall Average Recovery** vs 2019 baseline  
-  **Lowest Recovery Mode** (Bus – 38%)  
-  **Highest Recovery Mode** (Bridges & Tunnels – ~100%)  
 - Designed a **Tableau dashboard** with time-series impact, forecasted recovery to 2026, and mode-level insights.  
 ---
 
