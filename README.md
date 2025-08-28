@@ -18,10 +18,10 @@ I’m a Data Analyst with ~2+ years of experience across data analytics, data sc
 [GitHub Repo](https://github.com/Suhasini240/Justice-Lens)  
 Built a **Streamlit app** integrating the **New York Times API** and **News API (Fox News)** to detect bias in media coverage of shared topics. Designed Python **ETL workflows**, applied **NLP (VADER sentiment, confidence intervals, Cohen's d)**, and built interactive dashboards to visualize polarity, volatility, and headline–abstract gaps (clickbait lens).  
 
-###[MTA Ridership Recovery Analysis (2020–2026)](https://github.com/Suhasini240/data_analysis_visualization/tree/main/mta_ridership_recovery)  
+### [MTA Ridership Recovery Analysis (2020–2026)](https://github.com/Suhasini240/data_analysis_visualization/tree/main/mta_ridership_recovery)  
 [GitHub Repo](https://github.com/Suhasini240/data_analysis_visualization)  
 Analyzed **NYC MTA ridership data** to measure post-COVID recovery trends across modes (Subway, Bus, LIRR, Metro-North, Bridges & Tunnels, Staten Island Railway).  
-- Built **SQL queries** for key KPIs:  
+- Built **SQL queries** for key KPIs and analyzing data 
 - Designed a **Tableau dashboard** with time-series impact, forecasted recovery to 2026, and mode-level insights.  
 ---
 
